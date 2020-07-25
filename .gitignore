@@ -1,0 +1,14 @@
+*.o
+*~
+*.vcxproj.user
+*.suo
+*.pdb
+*.log
+*.tlog
+bin/*
+*.VC.*db
+ext/main_rel.obj
+ext/main_rel.snr
+src/shader_code*.h
+i1k_OGLShader_vc2013.sdf
+*.opendb
